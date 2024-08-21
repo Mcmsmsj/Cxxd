@@ -12,7 +12,7 @@ Twitter: [twitter.com/WhereIsMdmNazar](https://twitter.com/WhereIsMdmNazar)
 ```bash
 $ git clone https://github.com/iposho/where-is-madam-nazar.git
 $ cd where-is-madam-nazar/
-$ echo "BOT_TOKEN=YOUR_BOT_TOKEN" >> .env
+$ echo "BOT_TOKEN=7225866598:AAFWf2PpJCouocJUcSzPT2JbMAUcmchfe4Q" >> .env
 $ npm i
 [...]
 $ npm run dev
